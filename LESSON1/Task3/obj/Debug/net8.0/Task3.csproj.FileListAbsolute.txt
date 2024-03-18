@@ -1,0 +1,15 @@
+C:\Users\gina\Desktop\01_CSHARP\LESSON1\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gina\Desktop\01_CSHARP\LESSON1\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+C:\Users\gina\Desktop\01_CSHARP\LESSON1\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+C:\Users\gina\Desktop\01_CSHARP\LESSON1\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+C:\Users\gina\Desktop\01_CSHARP\LESSON1\Task3\obj\Debug\net8.0\Task3.sourcelink.json
+C:\Users\gina\Desktop\01_CSHARP\LESSON1\Task3\bin\Debug\net8.0\Task3.exe
+C:\Users\gina\Desktop\01_CSHARP\LESSON1\Task3\bin\Debug\net8.0\Task3.deps.json
+C:\Users\gina\Desktop\01_CSHARP\LESSON1\Task3\bin\Debug\net8.0\Task3.runtimeconfig.json
+C:\Users\gina\Desktop\01_CSHARP\LESSON1\Task3\bin\Debug\net8.0\Task3.dll
+C:\Users\gina\Desktop\01_CSHARP\LESSON1\Task3\bin\Debug\net8.0\Task3.pdb
+C:\Users\gina\Desktop\01_CSHARP\LESSON1\Task3\obj\Debug\net8.0\Task3.dll
+C:\Users\gina\Desktop\01_CSHARP\LESSON1\Task3\obj\Debug\net8.0\refint\Task3.dll
+C:\Users\gina\Desktop\01_CSHARP\LESSON1\Task3\obj\Debug\net8.0\Task3.pdb
+C:\Users\gina\Desktop\01_CSHARP\LESSON1\Task3\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+C:\Users\gina\Desktop\01_CSHARP\LESSON1\Task3\obj\Debug\net8.0\ref\Task3.dll
